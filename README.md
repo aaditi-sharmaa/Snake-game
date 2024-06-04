@@ -19,7 +19,7 @@ The Snake Game is a classic arcade game where the player controls a snake that m
 - Each time the snake eats food, it grows longer.
 - The game ends when the snake collides with the walls or itself.
 - If you need a hint on the next best move, you can click the "Get Hint" button.
-
+[![YouTube Video](https://youtu.be/6JfvGElkjCY.jpg)]([https://youtu.be/6JfvGElkjCY])
 ## Features
 - Simple and intuitive controls using arrow keys.
 - Random generation of food on the canvas.
